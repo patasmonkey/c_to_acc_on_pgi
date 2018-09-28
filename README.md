@@ -13,8 +13,11 @@ command.shの中の
 
 動作環境
 Xcode-ML https://github.com/omni-compiler/xcodeml-tools.git
+
 pgiコンパイラ　https://www.softek.co.jp/SPG/Pgi/pgi_community.html
+
 OS:ubuntu16.04
+
 GPU:nvidia1080ti
 
 ソースコードは下記のURLから持って来ました
